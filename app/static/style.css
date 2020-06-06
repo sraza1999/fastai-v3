@@ -1,5 +1,5 @@
 body {
-    background-color: #0000FF;
+    background-color: #00000F;
 }
 
 .no-display {
@@ -45,7 +45,7 @@ button.choose-file-button {
     border-radius: 2px;
     background-color: #ffffff;
     border: solid 1px #7052CB;
-    font-size: 13px;
+    font-size: 25px;
     color: #7052CB;
 }
 
